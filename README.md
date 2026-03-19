@@ -49,7 +49,7 @@ You can access the application here:
 
 - Java  
 - JSP / Servlet  
-- MySQL  
+- SQLite  
 - HTML / CSS
 - JavaScript (basic)
 - Apache Tomcat  
